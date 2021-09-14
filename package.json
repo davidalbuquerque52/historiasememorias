@@ -42,7 +42,7 @@
   "devDependencies": {
   },
   "engines": {
-    "node": "12.15.1",
+    "node": "12.15",
     "npm": "5.0.3"
   }
 }
